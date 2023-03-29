@@ -1,3 +1,5 @@
+##AI For Space Teachnology
+
 The code for star type detection using ML in Python involves several steps, including data preprocessing, feature selection, and model training and testing. Here's a summary of each step:
 
 Data Preprocessing: The first step involves preparing the data for analysis. This includes loading the data into Python, handling missing values, and scaling the data.
