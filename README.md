@@ -1,4 +1,4 @@
-<h1>AI For Space Teachnology<h1/>
+<h1>AI For Space Teachnology</h1>
 
 The code for star type detection using ML in Python involves several steps, including data preprocessing, feature selection, and model training and testing. Here's a summary of each step:
 
